@@ -1,0 +1,8 @@
+bee: https://www.kaggle.com/datasets/chopper53/machine-learning-engineer-salary-in-2024
+
+avocado: https://www.kaggle.com/code/janiobachmann/price-of-avocados-pattern-recognition-analysis/input
+
+weather: https://www.kaggle.com/code/karnikakapoor/rain-prediction-ann/input
+
+referencua de codigo para el punto 3:
+https://www.analyticsvidhya.com/blog/2024/02/area-chart-in-python/
